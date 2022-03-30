@@ -1,0 +1,13 @@
+release/dialogdelegate.o
+release/editriverdialog.o
+release/linedelegate.o
+release/main.o
+release/mainwindow.o
+release/myModel.o
+release/river.o
+release/moc_dialogdelegate.o
+release/moc_editriverdialog.o
+release/moc_linedelegate.o
+release/moc_mainwindow.o
+release/moc_myModel.o
+release/moc_river.o

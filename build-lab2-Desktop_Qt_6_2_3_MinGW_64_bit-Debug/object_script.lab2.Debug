@@ -1,0 +1,13 @@
+debug/dialogdelegate.o
+debug/editriverdialog.o
+debug/linedelegate.o
+debug/main.o
+debug/mainwindow.o
+debug/myModel.o
+debug/river.o
+debug/moc_dialogdelegate.o
+debug/moc_editriverdialog.o
+debug/moc_linedelegate.o
+debug/moc_mainwindow.o
+debug/moc_myModel.o
+debug/moc_river.o
